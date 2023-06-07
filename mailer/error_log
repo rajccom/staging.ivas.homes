@@ -1,0 +1,67 @@
+[17-May-2023 11:54:27 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[17-May-2023 11:54:27 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[17-May-2023 11:55:13 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[17-May-2023 11:55:13 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[17-May-2023 11:55:22 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[17-May-2023 11:55:22 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[17-May-2023 12:40:42 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[17-May-2023 12:40:42 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 04:30:58 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/bath-fittings-mail.php on line 2
+[05-Jun-2023 04:30:58 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/bath-fittings-mail.php on line 2
+[05-Jun-2023 04:50:32 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/bath-fittings-mail.php on line 2
+[05-Jun-2023 04:50:32 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/bath-fittings-mail.php on line 2
+[05-Jun-2023 05:54:46 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 05:54:46 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 05:59:25 UTC] PHP Warning:  require(./ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 05:59:25 UTC] PHP Fatal error:  require(): Failed opening required './ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 06:05:24 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:08:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:12:49 UTC] PHP Notice:  Undefined variable: ref_parts in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:12:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:16:28 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:30:10 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:40:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 13
+[05-Jun-2023 06:40:32 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 06:40:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 35
+[05-Jun-2023 06:43:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 13
+[05-Jun-2023 06:43:55 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 06:43:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 35
+[05-Jun-2023 06:47:20 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 06:49:51 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 07:01:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 07:02:04 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/tiles-mail.php on line 2
+[05-Jun-2023 07:02:04 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/tiles-mail.php on line 2
+[05-Jun-2023 07:07:21 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:09:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:09:45 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:10:16 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:10:47 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:12:45 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:19:32 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 07:19:32 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 07:20:52 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 07:20:52 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 07:21:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:21:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:22:49 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:23:37 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:24:11 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:25:03 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:29:50 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:31:47 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:34:53 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:42:07 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:42:09 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:44:37 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:46:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:47:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:47:15 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:47:19 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 10:27:22 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 10:30:28 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 10:33:05 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 10:34:25 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 12:58:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[06-Jun-2023 05:30:47 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[06-Jun-2023 05:30:47 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[06-Jun-2023 10:48:30 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
